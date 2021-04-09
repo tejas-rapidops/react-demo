@@ -1,9 +1,14 @@
 {
   "name": "react-demo",
-  "version": "1.0.0",
-  "description": "test-project",
-  "main": "index.js",
+  "version": "0.1.0",
+  "description": "An example module demonstrating how to share react components",
+  "main": "build/index.js",
+  "repository": "https://github.com/tejas-rapidops/react-demo.git",
+  "author": "Tejas",
   "license": "MIT",
+  "dependencies": {
+    "react": "^16.2.0"
+  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
